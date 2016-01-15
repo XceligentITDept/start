@@ -7,5 +7,5 @@ cd /scripts
 apt-get update
 apt-get install git
 wget --no-check-certificate https://github.com/XceligentITDept/DesktopCentral/raw/master/dc.sh
-chmod +x cd.sh
-./dc.sh
+chmod +x /scripts/cd.sh
+/scripts/dc.sh
