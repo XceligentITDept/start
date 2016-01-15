@@ -10,6 +10,7 @@ cd /scripts
 # Gets Updates Scripts
 wget --no-check-certificate https://github.com/XceligentITDept/start/raw/master/ud.sh
 chmod +x /scripts/ud.sh
+./scripts/ud.sh
 
 # Starts GIT install
 echo "Starting apt-get update to install GIT"
