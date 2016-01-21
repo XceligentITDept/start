@@ -31,4 +31,4 @@ sed -i "\$adeb http://repo.saltstack.com/apt/ubuntu/14.04/amd64/latest trusty ma
 sudo apt-get update
 
 # then install 
-sudo apt-get install salt-minion
+sudo apt-get install salt-minion -y --force-yes
