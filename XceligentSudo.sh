@@ -1,0 +1,3 @@
+User_Alias      UNRESTRICTED = %Linux_Users
+
+UNRESTRICTED ALL=(ALL) NOPASSWD:ALL
